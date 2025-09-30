@@ -37,6 +37,6 @@ The goal is to help **managers, executives, and marketing teams** make **data-dr
 
 ## 🚀 How to Use  
 
-You can download the `Sales_Dashboard.twbx` file and open it or use the link below ⬇️⬇️
+You can download the `Office_Supplies_Analysis.twbx` file and open it or use the link below ⬇️⬇️
 
 https://public.tableau.com/app/profile/youssef.eissa8870/viz/SalesDashboard_17585712961580/CustomerDashboard?publish=yes
